@@ -1,0 +1,15 @@
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/bin/Debug/net6.0/Week7Functions
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/bin/Debug/net6.0/Week7Functions.deps.json
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/bin/Debug/net6.0/Week7Functions.runtimeconfig.json
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/bin/Debug/net6.0/Week7Functions.dll
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/bin/Debug/net6.0/Week7Functions.pdb
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/obj/Debug/net6.0/Week7Functions.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/obj/Debug/net6.0/Week7Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/obj/Debug/net6.0/Week7Functions.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/obj/Debug/net6.0/Week7Functions.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/obj/Debug/net6.0/Week7Functions.csproj.CoreCompileInputs.cache
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/obj/Debug/net6.0/Week7Functions.dll
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/obj/Debug/net6.0/refint/Week7Functions.dll
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/obj/Debug/net6.0/Week7Functions.pdb
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/obj/Debug/net6.0/Week7Functions.genruntimeconfig.cache
+/Users/airevuchmann/Projects/Week7Functions/Week7Functions/obj/Debug/net6.0/ref/Week7Functions.dll

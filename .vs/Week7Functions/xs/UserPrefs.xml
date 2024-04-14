@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{12FCE262-E63A-449C-BAEE-B1F25E6E234C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DiscountCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ArgumentsAndParameters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week7Functions/Program.cs">
+    <Files>
+      <File FileName="Week7Functions/Program.cs" Line="4" Column="17" />
+      <File FileName="ArgumentsAndParameters/Program.cs" Line="5" Column="26" />
+      <File FileName="Calculator/Program.cs" Line="8" Column="1" />
+      <File FileName="DiscountCalculator/Program.cs" Line="11" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week7Functions" expanded="True">
+            <Node name="ArgumentsAndParameters" expanded="True" />
+            <Node name="Calculator" expanded="True" />
+            <Node name="DiscountCalculator" expanded="True" />
+            <Node name="Week7Functions" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Week7Functions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

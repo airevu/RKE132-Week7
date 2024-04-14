@@ -1,0 +1,15 @@
+/Users/airevuchmann/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/airevuchmann/Projects/Week7Functions/Calculator/bin/Debug/net6.0/Calculator
+/Users/airevuchmann/Projects/Week7Functions/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/airevuchmann/Projects/Week7Functions/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/airevuchmann/Projects/Week7Functions/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/airevuchmann/Projects/Week7Functions/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/airevuchmann/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/airevuchmann/Projects/Week7Functions/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/airevuchmann/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/airevuchmann/Projects/Week7Functions/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/airevuchmann/Projects/Week7Functions/Calculator/obj/Debug/net6.0/ref/Calculator.dll
